@@ -46,8 +46,9 @@
 
 ## 📝개발 계획
 
-![gantt_chart](https://ibb.co/dfDYTLK)
-
+<p align="center">
+    <img src="https://i.ibb.co/grJK2Pg/gantt-chart.png"  width="600" height="300">
+</p>
 ## 기타 정보
 
 1. git & jira
