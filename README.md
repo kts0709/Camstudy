@@ -26,10 +26,6 @@
 
 [![SSAFY_3기_캠공_UCC](http://img.youtube.com/vi/7wGEgsYu_O8/0.jpg)](https://youtu.be/7wGEgsYu_O8)
 
-## 👀와이어프레임
-
-![wireframe](/uploads/7053b527109bfc956b161d5e3d6b12c2/wireframe.png)
-
 
 ## &#128640;수동 배포 방법 
 
@@ -50,7 +46,7 @@
 
 ## 📝개발 계획
 
-![gantt_chart](/uploads/1f8a04f392258ca5cc379aba690d4683/gantt_chart.png)
+![gantt_chart](https://ibb.co/dfDYTLK)
 
 ## 기타 정보
 
